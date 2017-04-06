@@ -1,0 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+* {color: #FFF}
+body {background-image: url(bg.jpg);}
+.cform {width:350px;height: 370px;margin: 30px auto;border: 2px solid #cd8320;border-radius: 30px}
+.cform h1 {text-align:center;}
+form input {padding: 10px;margin: 10px;text-align: center;}
+.id {border: 2px solid #aa8340;background-color: rgba(0, 0, 0, -500.7);width:260px;margin: 0px 0px 10px 30px;border-radius: 20px 20px 0px 0px}
+.pw {border: 2px solid #aa8340;background-color: rgba(0, 0, 0, -500.7);width:260px;margin: 0px 0px 15px 30px;border-radius: 0px 0px 20px 20px}
+.reg {border: 2px solid #aa8340;background-color: rgba(0, 0, 0, -500.7);cursor: pointer;display: block;width:284px;margin: 0px 0px 0px 30px;}
+.reg:hover {border: 2px solid #aa8340;background-color: rgba(0, 0, 0, -500.7);-webkit-box-shadow: -6px 6px 1px #796533;-moz-box-shadow: -6px 6px 1px #796533;-o-box-shadow: -6px 6px 1px #796533;}
+fieldset {border:2px solid #eca843;width:290px;height: 100px;margin:16px 17px;border-radius: 0px 0px 20px 20px}
+fieldset legend {width:220px;text-align:center;border:2px solid #eca843;padding:10px;border-radius: 20px 20px 0px 0px}
+.social {background-color: rgba(0, 0, 0, -500.7);margin:auto;border:2px solid #eca843;width:239px;height:47px;border-radius:0px 0px 20px 20px;}
+a {text-decoration: none;color: #fff;}
+ul {padding:0;list-style: none;}
+.social-icon {color: #fff;}
+ul.social-icons {margin: 5px 54px;}
+.social-icons li {vertical-align: top;display: inline;height: 100px;}
+.social-icons a {color: #fff;text-decoration: none;}
+.fa-facebook {padding:10px 14px;-o-transition:.5s;-ms-transition:.5s;-moz-transition:.5s;-webkit-transition:.5s;transition: .5s;background-color: #322f30;}
+.fa-facebook:hover {background-color: #3d5b99;}
+.fa-google-plus {padding:10px 9px;-o-transition:.5s;-ms-transition:.5s;-moz-transition:.5s;-webkit-transition:.5s;transition: .5s; background-color: #322f30;}
+.fa-google-plus:hover {background-color: #e25714;}
+.fa-codepen {padding:10px 14px;-o-transition:.5s;-ms-transition:.5s;-moz-transition:.5s;-webkit-transition:.5s;transition: .5s; background-color: #322f30;}
+.fa-codepen:hover {background-color: #000}
